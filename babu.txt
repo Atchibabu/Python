@@ -5,3 +5,6 @@ welcome to bbu
 
 new
 wipro
+
+hanuma
+temple
